@@ -1,0 +1,43 @@
+
+
+
+
+
+
+.logo-title1 {
+
+  font-size: 20px;
+  color: green;
+  font-weight: bold;
+  margin-right: 5px;
+  text-decoration: none;
+}
+.logo-title2 {
+
+  font-size: 20px;
+  color: greenyellow;
+  font-weight: bold;
+  margin-right: 5px;
+}
+.rev-slidebg{
+  opacity: 1;
+}
+.main{
+  opacity: 0.9;
+}
+.sticky-body{
+  background-color: greenyellow;
+}
+.slide{
+  opacity: 0.7;
+}
+.fa {
+  font-size: 50px;
+  color:rgb(255, 255, 255) ;
+}
+.button_class
+{
+  border-radius: 20px;
+  
+
+}
